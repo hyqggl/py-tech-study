@@ -1,8 +1,10 @@
 # py-tech-study
+
 python learning
 
-n01:
+http://lectures.quantecon.org/py/index.html
 
-http://lectures.quantecon.org/py/python_by_example.html
+n01: python_by_example
 
-http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.applications/blob/master/python_by_example/pbe_solutions.ipynb
+n02: Python Essentials
+
