@@ -14,4 +14,8 @@ n04: How it Works: Data, Variables and Names
 
 n05: Python advanced features
 
+n06: numPy
+
+n07: Matplotlib
+
 
