@@ -18,4 +18,7 @@ n06: numPy
 
 n07: Matplotlib
 
+n08: Scipy
+
+n09: Pandas
 
